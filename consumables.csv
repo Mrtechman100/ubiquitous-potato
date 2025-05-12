@@ -1,0 +1,53 @@
+﻿image,title,description,section
+images/Consumables/Fool.png,The Fool,Creates the last Tarot or Planet card used during this run. <span class='flavorText'>The Fool excluded</span>,Tarot
+images/Consumables/Magician.png,The Magician,Enhances 2 selected cards into Lucky Cards.,Tarot
+images/Consumables/High_Priestess.png,The High Priestess,Creates up to 2 random Planet cards. <span class='flavorText'>Must have room</span>,Tarot
+images/Consumables/Empress.png,The Empress,Enhances 2 selected cards to Mult Cards.,Tarot
+images/Consumables/Emperor.png,The Emperor,Creates up to 2 random Tarot cards. <span class='flavorText'>Must have room</span>,Tarot
+images/Consumables/Hierophant.png,The Hierophant,Enhances 2 selected cards to Bonus Cards.,Tarot
+images/Consumables/Lovers.png,The Lovers,Enhances 1 selected card into a Wild Card.,Tarot
+images/Consumables/Chariot.png,The Chariot,Enhances 1 selected card into a Steel Card.,Tarot
+images/Consumables/Justice.png,Justice,Enhances 1 selected card into a Glass Card.,Tarot
+images/Consumables/Hermit.png,The Hermit,Doubles money. <span class='flavorText'>Maximum of &#36;20</span>,Tarot
+images/Consumables/Wheel_Of_Fortune.png,The Wheel of Fortune,"1 in 4 chance to add Foil, Holographic, or Polychrome edition to a random Joker.",Tarot
+images/Consumables/Strength.png,Strength,Increases rank of up to 2 selected cards by 1.,Tarot
+images/Consumables/Hanged_Man.png,The Hanged Man,Destroys up to 2 selected cards.,Tarot
+images/Consumables/Death.png,Death,"Select 2 cards, convert the left card into the right card. <span class='flavorText'>Drag to rearrange</span>",Tarot
+images/Consumables/Temperance.png,Temperance,Gives the total sell value of all current jokers. <span class='flavorText'>Max of &#36;50</span>,Tarot
+images/Consumables/Devil.png,The Devil,Enhances 1 selected card into a Gold Card.,Tarot
+images/Consumables/Tower.png,The Tower,Enhances 1 selected card into a Stone Card.,Tarot
+images/Consumables/Star.png,The Star,Converts up to 3 selected cards to &#9830;Diamonds.,Tarot
+images/Consumables/Moon.png,The Moon,Converts up to 3 selected cards to &#9827;Clubs.,Tarot
+images/Consumables/Sun.png,The Sun,Converts up to 3 selected cards to &#9829;Hearts.,Tarot
+images/Consumables/World.png,The World,Converts up to 3 selected cards to &#9824;Spades.,Tarot
+images/Consumables/Judgement.png,Judgement,Creates a random Joker card. <span class='flavorText'>Must have room</span>,Tarot
+images/Consumables/Mercury.png,Mercury,<span class='handType'>Pair</span><br><br> &#43;1 Mult and &#43;15 Chips.,Planet
+images/Consumables/Venus.png,Venus,<span class='handType'>Three of a Kind</span><br><br> &#43;2 Mult and &#43;20 Chips.,Planet
+images/Consumables/Earth.png,Earth,<span class='handType'>Full House</span><br><br> &#43;2 Mult and &#43;25 Chips.,Planet
+images/Consumables/Mars.png,Mars,<span class='handType'>Four of a Kind</span><br><br>&#43;3 Mult and &#43;30 Chips.,Planet
+images/Consumables/Jupiter.png,Jupiter,<span class='handType'>Flush</span><br><br>&#43;2 Mult and &#43;15 Chips.,Planet
+images/Consumables/Saturn.png,Saturn,<span class='handType'>Straight</span><br><br>&#43;3 Mult and &#43;30 Chips.,Planet
+images/Consumables/Uranus.png,Uranus,<span class='handType'>Two Pair</span><br><br>&#43;1 Mult and &#43;20 Chips.,Planet
+images/Consumables/Neptune.png,Neptune,<span class='handType'>Straight Flush</span><br><br>&#43;4 Mult and &#43;40 Chips.,Planet
+images/Consumables/Pluto.png,Pluto,<span class='handType'>High Card</span><br><br>&#43;1 Mult and &#43;15 Chips.,Planet
+images/Consumables/PlanetX.png,Planet X,<span class='handType'>Five of a Kind</span><br><br>&#43;3 Mult and &#43;35 Chips.,Planet
+images/Consumables/Ceres.png,Ceres,<span class='handType'>Flush House</span><br><br>&#43;4 Mult and &#43;40 Chips.,Planet
+images/Consumables/Eris.png,Eris,<span class='handType'>Flush Five</span><br><br>&#43;3 Mult and &#43;50 Chips.,Planet
+images/Consumables/Familiar.png,Familiar,"Destroy 1 random card in your hand, add 3 random Enhanced Face cards to your hand.",Spectral
+images/Consumables/Grim.png,Grim,"Destroy 1 random card in your hand, add 2 random Enhanced Aces to your hand.",Spectral
+images/Consumables/Incantation.png,Incantation,"Destroy 1 random card in your hand, add 4 random Enhanced Numbered cards to your hand.",Spectral
+images/Consumables/Talisman.png,Talisman,Add a Gold Seal to 1 selected card in your hand.,Spectral
+images/Consumables/Aura.png,Aura,"Add Foil, Holographic, or Polychrome effect to 1 selected card in hand.",Spectral
+images/Consumables/Wraith.png,Wraith,"Creates a random Rare Joker, sets money to &#36;0.",Spectral
+images/Consumables/Sigil.png,Sigil,Converts all cards in hand to a single random suit.,Spectral
+images/Consumables/Ouija.png,Ouija,Converts all cards in hand to a single random rank &#8722;1 hand size.,Spectral
+images/Consumables/Ectoplasm.png,Ectoplasm,"Add Negative to a random Joker, &#8722;1 hand size.",Spectral
+images/Consumables/Immolate.png,Immolate,"Destroys 5 random cards in hand, gain &#36;20.",Spectral
+images/Consumables/Ankh.png,Ankh,"Create a copy of a random Joker, destroy all other Jokers.",Spectral
+images/Consumables/Deja_Vu.png,Déjà Vu,Add a Red Seal to 1 selected card in your hand.,Spectral
+images/Consumables/Hex.png,Hex,"Add Polychrome to a random Joker, destroy all other Jokers.",Spectral
+images/Consumables/Trance.png,Trance,Add a Blue Seal to 1 selected card in your hand.,Spectral
+images/Consumables/Medium.png,Medium,Add a Purple Seal to 1 selected card in your hand.,Spectral
+images/Consumables/Cryptid.png,Cryptid,Create 2 copies of 1 selected card in your hand.,Spectral
+images/Consumables/Soul.png,Soul,Creates a Legendary Joker. <span class='flavorText'> Must have room</span>,Spectral
+images/Consumables/Black_Hole.png,Black Hole,Upgrade every Poker Hand by 1 level.,Spectral

@@ -1,0 +1,52 @@
+/* styles.css */
+/* General styles */
+:root{
+    --navbarbgcolor: #333;
+}
+/* Nav bar styles */
+nav {
+    background-color: var(--navbarbgcolor);
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+nav ul li a:visited {
+    color: white;
+}
+
+/* Body styles */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header styles */
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}

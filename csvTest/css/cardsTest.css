@@ -1,0 +1,76 @@
+/* Card styles */
+.card-container {
+    transform-style: preserve-3d;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+
+}
+  
+.card {
+    width: 270px;     /* same as .card-front/.card-back */
+    height: 364px;
+    position: relative;
+    transition: 0.4s;
+    transform-style: preserve-3d;
+}
+  
+  /* these now flip in place inside each .card */
+.card-front, .card-back {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    backface-visibility: hidden;
+    transition: 0.6s;
+}
+  
+.card-front {
+    border-radius: 20px;
+    z-index: 2;
+    transform: rotateY(0deg);
+}
+  
+.card-back {
+    background: #343434;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    transform: rotateY(-180deg);
+    border-radius: 20px;
+}
+  
+.card:hover .card-back {
+    transform: rotateY(0deg);
+}
+.card:hover .card-front {
+    transform: rotateY(180deg);
+}
+
+.tags {
+    color: #000;
+    background: #f2f2f2;
+    display: inline-block;
+    font-size: 12px;
+    padding: 8px 12px;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+.tags-1 {
+    color: #000;
+    background: #26ce85;
+    display: inline-block;
+    font-size: 12px;
+    padding: 8px 12px;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+

@@ -1,0 +1,151 @@
+﻿image,title,description,tag,tagClass
+images/Jokers/Joker.png,Joker,&#43;4 Mult.,COMMON,tags
+images/Jokers/Greedy_Joker.png,Greedy Joker,Played cards with &#9830;Diamond suit give &#43;3 Mult when scored.,COMMON,tags
+images/Jokers/Lusty_Joker.png,Lusty Joker,Played cards with &#9829;Heart suit give &#43;3 Mult when scored.,COMMON,tags
+images/Jokers/Wrathful_Joker.png,Wrathful Joker,Played cards with &#9824;Spades suit give &#43;3 Mult when scored.,COMMON,tags
+images/Jokers/Gluttonous_Joker.png,Gluttonous Joker,Played cards with &#9827;Clubs suit give &#43;3 Mult when scored.,COMMON,tags
+images/Jokers/Jolly_Joker.png,Jolly Joker,&#43;8 Mult if played hand contains a Pair.,COMMON,tags
+images/Jokers/Zany_Joker.png,Zany Joker,&#43;12 Mult if played hand contains a Three of a Kind.,COMMON,tags
+images/Jokers/Mad_Joker.png,Mad Joker,&#43;20 Mult if played hand contains a Four of a Kind.,COMMON,tags
+images/Jokers/Crazy_Joker.png,Crazy Joker,&#43;12 Mult if played hand contains a Straight.,COMMON,tags
+images/Jokers/Droll_Joker.png,Droll Joker,&#43;10 Mult if played hand contains a Flush.,COMMON,tags
+images/Jokers/Sly_Joker.png,Sly Joker,&#43;50 Chips if played hand contains a Pair.,COMMON,tags
+images/Jokers/Wily_Joker.png,Wily Joker,&#43;100 Chips if played hand contains a Three of a Kind.,COMMON,tags
+images/Jokers/Clever_Joker.png,Clever Joker,&#43;150 Chips if played hand contains a Four of a Kind.,COMMON,tags
+images/Jokers/Devious_Joker.png,Devious Joker,&#43;100 Chips if played hand contains a Straight.,COMMON,tags
+images/Jokers/Crafty_Joker.png,Crafty Joker,&#43;80 Chips if played hand contains a Flush.,COMMON,tags
+images/Jokers/Half_Joker.png,Half Joker,&#43;20 Mult if played hand contains 3 or fewer cards.,COMMON,tags
+images/Jokers/Joker_Stencil.png,Joker Stencil,&#215;1 Mult for each empty ''Joker'' slot.,UNCOMMON,tags-1
+images/Jokers/Four_Fingers.png,Four Fingers,All Flushes and Straights can be made with 4 cards.,UNCOMMON,tags-1
+images/Jokers/Mime.png,Mime,Retrigger all card Held in Hand abilities.,UNCOMMON,tags-1
+images/Jokers/Credit_Card.png,Credit Card,Go up to &#8722;&#36;20 in debt,COMMON,tags
+images/Jokers/Ceremonial_Dagger.png,Ceremonial Dagger,"When Blind is selected, destroy Joker to the right and permanently add double its sell value to this Mult.",UNCOMMON,tags-1
+images/Jokers/Banner.png,Banner,&#43;30 Chips for each remaining discard.,COMMON,tags
+images/Jokers/Mystic_Summit.png,Mystic Summit,&#43;15 Mult when 0 discards remaining.,COMMON,tags
+images/Jokers/Marble_Joker.png,Marble Joker,Adds one Stone card to the deck when Blind is selected.,UNCOMMON,tags-1
+images/Jokers/Loyalty_Card.png,Loyalty Card,&#215;4 Mult every 6 hands played.,UNCOMMON,tags-1
+images/Jokers/8_Ball.png,8 Ball,Create a Planet card if played hand contains 2 or more 8s.,COMMON,tags
+images/Jokers/Misprint.png,Misprint,&#43; Mult. Between 0 and 23.,COMMON,tags
+images/Jokers/Dusk.png,Dusk,Retrigger all played cards in final hand of round.,UNCOMMON,tags-1
+images/Jokers/Raised_Fist.png,Raised Fist,Adds double the rank of lowest card held in hand to Mult.,COMMON,tags
+images/Jokers/Chaos_The_Clown.png,Chaos the Clown,1 free Reroll per shop.,COMMON,tags
+images/Jokers/Fibonacci.png,Fibonacci,"Each played Ace, 2, 3, 5, or 8 gives &#43;6 Mult when scored.",UNCOMMON,tags-1
+images/Jokers/Steel_Joker.png,Steel Joker,This Joker gaines &#215;0.2 Mult for each Steel Card in your full deck.,UNCOMMON,tags-1
+images/Jokers/Scary_Face.png,Scary Face,Played Face cards give &#43;30 Chips when scored.,COMMON,tags
+images/Jokers/Abstract_Joker.png,Abstract Joker,&#43; Mult for each Joker card.,COMMON,tags
+images/Jokers/Delayed_Gratification.png,Delayed Gratification,Earn &#36;2 per discard if no discards are used by the end of the round.,COMMON,tags
+images/Jokers/Hack.png,Hack,"Retrigger each played 2, 3, 4, 5.",COMMON,tags
+images/Jokers/Pareidolia.png,Pareidolia,All cards are considered Face cards.,COMMON,tags
+images/Jokers/Gros_Michel.png,Gros Michel,&#43;15 Mult 1 in 6 change this card is destroyed at end of round.,COMMON,tags
+images/Jokers/Even_Steven.png,Even Steven,Played cards with EVEN rank give &#43;4 Mult when scored.,COMMON,tags
+images/Jokers/Odd_Todd.png,Odd Todd,Played cards with ODD rank give &#43;31 Chips when scored.,COMMON,tags
+images/Jokers/Scholar.png,Scholar,Played Aces give &#43;20 Chips and &#43;4 Mult when scored.,COMMON,tags
+images/Jokers/Business_Card.png,Business Card,Played Face cards have a 1 in 2 change to give &#36;2 when scored.,COMMON,tags
+images/Jokers/Supernova.png,Supernova,Adds the number of times poker hand has been played to Mult.,COMMON,tags
+images/Jokers/Ride_The_Bus.png,Ride the Bus,&#43;1 Mult per consecutive hand played without a scoring face card.,COMMON,tags
+images/Jokers/Space_Joker.png,Space Joker,1 in 4 chance to upgrade level of played poker hand.,UNCOMMON,tags-1
+images/Jokers/Egg.png,Egg,Gains &#36;3 of sell value at end of round.,COMMON,tags
+images/Jokers/Burglar.png,Burglar,"When Blind is selected, gain &#43;3 Hands and lose all discards.",UNCOMMON,tags-1
+images/Jokers/Blackboard.png,Blackboard,&#215;3 Mult if all cards held in hand are Spades or Clubs.,UNCOMMON,tags-1
+images/Jokers/Runner.png,Runner,Gains &#43;15 Chips if played hand contains a Straignt.,COMMON,tags
+images/Jokers/Ice_Cream.png,Ice Cream,&#43;100 Chips &#8722;5 Chips for every hand played.,COMMON,tags
+images/Jokers/DNA.png,DNA,"If First Hand of round has only 1 card, add a permanent copy to deck and draw it to Hand.",RARE,tags-2
+images/Jokers/Splash.png,Splash,Every Played Card counts in scoring,COMMON,tags
+images/Jokers/Blue_Joker.png,Blue Joker,&#43;2 Chips for each remains card in Deck,COMMON,tags
+images/Jokers/Sixth_Sense.png,Sixth Sense,"If First Hand of round is a single 6, destroy it and create a Spectral Card.",UNCOMMON,tags-1
+images/Jokers/Constellation.png,Constellation,Gains &#215;0.1 Mult per Planet card used,UNCOMMON,tags-1
+images/Jokers/Hiker.png,Hiker,Every Played Card permanently gains &#43;5 Chips when scored.,UNCOMMON,tags-1
+images/Jokers/Faceless_Joker.png,Faceless Joker,Earn &#36;5 if 3 or more Face Cards are discarded at the same time.,COMMON,tags
+images/Jokers/Green_Joker.png,Green Joker,&#43;1 Mult per hand played &#8722;1 Mult per discard.,COMMON,tags
+images/Jokers/Superposition.png,Superposition,Create a Tarot card if poker hand contains an Ace and a Straight.,COMMON,tags
+images/Jokers/To_Do_List.png,To Do List,"Earn &#36;5 if Poker Hand is a Two Pair, poker hand changes at end of round.",COMMON,tags
+images/Jokers/Cavendish.png,Cavendish,&#215;3 Mult 1 in 1000 chance this card is destroyed at end of round.,COMMON,tags
+images/Jokers/Card_Sharp.png,Card Sharp,&#215;3 Mult if Poker Hand has already been played this round.,UNCOMMON,tags-1
+images/Jokers/Red_Card.png,Red Card,Gains &#43;3 Mult when any Booster Pack is skipped.,COMMON,tags
+images/Jokers/Madness.png,Madness,"When Small Blind or Big Blind is selected, gain &#215;0.5 Mult and destroy a random Joker.",UNCOMMON,tags-1
+images/Jokers/Square_Joker.png,Square Joker,Gains &#43;4 Chips if played hand has exactly 4 cards.,COMMON,tags
+images/Jokers/Seance.png,Séance,"If Poker Hand is a Straight Flush, create a random Spectral card.",UNCOMMON,tags-1
+images/Jokers/Riff_Raff.png,Riff-Raff,"When Blind is selected, create 2 Common Jokers.",COMMON,tags
+images/Jokers/Vampire.png,Vampire,"Gains &#215;0.2 Mult per Enhanced Card played, removes card Enhancement.",UNCOMMON,tags-1
+images/Jokers/Shortcut.png,Shortcut,Allows Straights to be made with gaps of 1 rank.,UNCOMMON,tags-1
+images/Jokers/Hologram.png,Hologram,Gains &#215;0.25 Mult per Playing Card added to your deck.,UNCOMMON,tags-1
+images/Jokers/Vagabond.png,Vagabond,Create a Tarot card if hand is played with &#36;4 or less.,RARE,tags-2
+images/Jokers/Baron.png,Baron,Each King held in hand gives &#215;1.5 Mult.,RARE,tags-2
+images/Jokers/Cloud_9.png,Cloud 9,Earn &#36;1 for each 9 in your Full Deck at end of round.,UNCOMMON,tags-1
+images/Jokers/Rocket.png,Rocket,Earn &#36;1 at end of round. Gains &#36;2 when Boss Blind is defeated.,UNCOMMON,tags-1
+images/Jokers/Obelisk.png,Obelisk,&#215;0.2 Mult per consecutive hand played without playing your most played poker hand.,RARE,tags-2
+images/Jokers/Midas_Mask.png,Midas Mask,All Face cards become Gold cards when played.,UNCOMMON,tags-1
+images/Jokers/Luchador.png,Luchador,Sell this card to disable the current Boss Blind.,UNCOMMON,tags-1
+images/Jokers/Photograph.png,Photograph,First played Face card give &#215;2 Mult when scored.,COMMON,tags
+images/Jokers/Gift_Card.png,Gift Card,Add &#36;1 of Sell Value to every Joker and Consumable card at end of round.,UNCOMMON,tags-1
+images/Jokers/Turtle_Bean.png,Turtle Bean,"&#43;5 hand size, reduces by 1 every round.",UNCOMMON,tags-1
+images/Jokers/Erosion.png,Erosion,&#43;4 Mult for each card below 52 in your full deck.,UNCOMMON,tags-1
+images/Jokers/Reserved_Parking.png,Reserved Parking,Each Face card held in hand has a 1 in 2 chance to give &#36;1.,COMMON,tags
+images/Jokers/Mail-In_Rebate.png,Mail-In Rebate,"Earn &#36;3 for each discarded Ace, rank changes every round.",COMMON,tags
+images/Jokers/To_The_Moon.png,To the Moon,Earn an extra &#36;1 of Interest for every &#36;5 you have at end of round.,UNCOMMON,tags-1
+images/Jokers/Hallucination.png,Hallucination,1 in 2 chance to create a Tarot card when any Booster Pack is opened,COMMON,tags
+images/Jokers/Fortune_Teller.png,Fortune Teller,&#43;1 Mult per Tarot card used this run.,COMMON,tags
+images/Jokers/Juggler.png,Juggler,&#43;1 hand size.,COMMON,tags
+images/Jokers/Drunkard.png,Drunkard,&#43;1 discard.,COMMON,tags
+images/Jokers/Stone_Joker.png,Stone Joker,This Joker gains &#43;25 Chips for each Stone Card in your full deck.,UNCOMMON,tags-1
+images/Jokers/Golden_Joker.png,Golden Joker,Earn &#36;4 at end of round.,COMMON,tags
+images/Jokers/Lucky_Cat.png,Lucky Cat,Gains &#215;0.25 Mult each time a Lucky card successfully triggers.,UNCOMMON,tags-1
+images/Jokers/Baseball_Card.png,Baseball Card,Uncommon Jokers each give &#215;1.5 Mult.,RARE,tags-2
+images/Jokers/Bull.png,Bull,&#43;2 Chips for each Dollar you have.,UNCOMMON,tags-1
+images/Jokers/Diet_Cola.png,Diet Cola,Sell this card to create a free Double Tag.,UNCOMMON,tags-1
+images/Jokers/Trading_Card.png,Trading Card,"If First Discard of round has only 1 card, destory it and earn &#36;3.",UNCOMMON,tags-1
+images/Jokers/Flash_Card.png,Flash Card,&#43;2 Mult per Reroll in the shop,UNCOMMON,tags-1
+images/Jokers/Popcorn.png,Popcorn,&#43;20 Mult &#8722;4 Mult per round played.,COMMON,tags
+images/Jokers/Spare_Trouser.png,Spare Trousers,Gains &#43;2 Mult if played hand contains a Two Pair.,UNCOMMON,tags-1
+images/Jokers/Ancient_Joker.png,Ancient Joker,"Each played card with &#9824;Spade suit gives &#215;1.5 Mult when scored, suit changes at end of round",RARE,tags-2
+images/Jokers/Ramen.png,Ramen,"&#215;2, loses &#215;0.01 Mult per card discarded. ",UNCOMMON,tags-1
+images/Jokers/Walkie_Talkie.png,Walkie Talkie,Each played 10 or 4 gives &#43;10 Chips and &#43;4 Mult when scored.,COMMON,tags
+images/Jokers/Seltzer.png,Seltzer,Retrigger all cards played for the next 10 hands.,UNCOMMON,tags-1
+images/Jokers/Castle.png,Castle,"This Joker gains &#43;3 Chips per discarded &#9824;Spade card, suit changes every round.",UNCOMMON,tags-1
+images/Jokers/Smiley_Face.png,Smiley Face,Played Face cards give &#43;5 Mult when scored.,COMMON,tags
+images/Jokers/Campfire.png,Campfire,"This Joker gains &#215;0.5 Mult for each card sold, resets when Boss Blind is defeated.",RARE,tags-2
+images/Jokers/Golden_Ticket.png,Golden Ticket,Played Gold cards earn &#36;4 when scored.,COMMON,tags
+images/Jokers/Mr_Bones.png,Mr. Bones,Prevents Death if chips scored are at least 25&#37; of required chips. SELF DESTRUCTS,UNCOMMON,tags-1
+images/Jokers/Acrobat.png,Acrobat,&#215;3 Mult on Final Hand of round.,UNCOMMON,tags-1
+images/Jokers/Sock_And_Buskin.png,Sock and Buskin,Retrigger all played Face cards.,UNCOMMON,tags-1
+images/Jokers/Swashbuckler.png,Swashbuckler,Adds the sell value of all other owned Jokers to Mult.,COMMON,tags
+images/Jokers/Troubadour.png,Troubadour,"&#43;2 hand size, &#8722;1 hands per round.",UNCOMMON,tags-1
+images/Jokers/Certificate.png,Certificate,When round begins add a random Playing Card with a random Seal to your hand.,UNCOMMON,tags-1
+images/Jokers/Smeared_Joker.png,Smeared Joker,"&#9829;Hearts and &#9830;Diamonds count as the same suit, &#9824;Spades and &#9827;Clubs count as the same suit.",UNCOMMON,tags-1
+images/Jokers/Throwback.png,Throwback,&#215;0.25 Mult for each Blind skipped this run.,UNCOMMON,tags-1
+images/Jokers/Hanging_Chad.png,Hanging Chad,Retrigger First played card used in scoring 2 additonal times.,COMMON,tags
+images/Jokers/Rough_Gem.png,Rough Gem,Played cards with &#9830;Diamond suit earn &#36;1 when scored.,UNCOMMON,tags-1
+images/Jokers/Bloodstone.png,Bloodstone,1 in 2 chance for played cards with &#9829;Heart suit gives &#215;1.5 when scored.,UNCOMMON,tags-1
+images/Jokers/Arrowhead.png,Arrowhead,Played cards with &#9824;Spades suit gives &#43;50 Chips when scored.,UNCOMMON,tags-1
+images/Jokers/Onyx_Agate.png,Onyx Agate,Played cards with &#9827;Clubs suit give &#43;7 Mult.,UNCOMMON,tags-1
+images/Jokers/Glass_Joker.png,Glass Joker,Gains &#215;0.75 Mult for every Glass Card that is destroyed.,UNCOMMON,tags-1
+images/Jokers/Showman.png,Showman,"Joker, Tarot, Planet, and Spectral cards may apper multiple times.",UNCOMMON,tags-1
+images/Jokers/Flower_Pot.png,Flower Pot,"&#215;3 Mult if played hand contains a &#9830;Diamond card, &#9827;Club card, &#9829;Heart card, and a &#9824;Spade card.",UNCOMMON,tags-1
+images/Jokers/Blueprint.png,Blueprint,Copies ability of Joker to the right.,RARE,tags-2
+images/Jokers/Wee_Joker.png,Wee Joker,This Joker gains &#43;8 Chips when each played 2 is scored.,RARE,tags-2
+images/Jokers/Merry_Andy.png,Merry Andy,"&#43;3 discards, &#8722;1 hand size.",UNCOMMON,tags-1
+images/Jokers/Oops_All_6s.png,Oops! All 6s,Doubles all Listed Probabilities.,UNCOMMON,tags-1
+images/Jokers/The_Idol.png,The Idol,"Each played Ace of &#9824;Spades gives &#215;2 Mult when scored, Card changes every round.",UNCOMMON,tags-1
+images/Jokers/Seeing_Double.png,Seeing Double,&#215;2 Mult if played hand has a scoring &#9827;Club card and a scoring card of any other Suit.,UNCOMMON,tags-1
+images/Jokers/Matador.png,Matador,Earn &#36;8 if played hand triggers the Boss Blind ability.,UNCOMMON,tags-1
+images/Jokers/Hit_The_Road.png,Hit the Road,Gains &#215;0.5 Mult per discarded Jack this round.,RARE,tags-2
+images/Jokers/The_Duo.png,The Duo,&#215;2 Mult if played hand contains a Pair.,RARE,tags-2
+images/Jokers/The_Trio.png,The Trio,&#215;2 Mult if played hand contains a Three of a Kind.,RARE,tags-2
+images/Jokers/The_Family.png,The Family,&#215;2 Mult if played hand contains a Four of a Kind.,RARE,tags-2
+images/Jokers/The_Order.png,The Order,&#215;2 Mult if played hand contains a Straight.,RARE,tags-2
+images/Jokers/The_Tribe.png,The Tribe,&#215;2 Mult if played hand contains a Flush.,RARE,tags-2
+images/Jokers/Stuntman.png,Stuntman,"&#43;250 Chips, &#8722;2 hand size.",RARE,tags-2
+images/Jokers/Invisible_Joker.png,Invisible Joker,"After 2 rounds, sell this card to Duplicate a random Joker.",RARE,tags-2
+images/Jokers/Brainstorm.png,Brainstorm,Copies the ability of leftmost Joker.,RARE,tags-2
+images/Jokers/Satellite.png,Satellite,Earn &#36;1 at end of round per unique Planet card used this run.,UNCOMMON,tags-1
+images/Jokers/Shoot_The_Moon.png,Shoot the Moon,&#43;13 Mult for each Queen held in hand.,COMMON,tags
+images/Jokers/Drivers_License.png,Driver's License,&#215;3 Mult if you have at least 16 Enhanced cards in your full deck.,RARE,tags-2
+images/Jokers/Cartomancer.png,Cartomancer,Create a Tarot card when Blind is selected.,UNCOMMON,tags-1
+images/Jokers/Astronomer.png,Astronomer,All Planet cards and Celestial Packs in shop are free.,UNCOMMON,tags-1
+images/Jokers/Burnt_Joker.png,Burnt Joker,Upgrade the level of the first Discarded poker hand each round.,UNCOMMON,tags-1
+images/Jokers/Bootstraps.png,Bootstraps,&#43;2 Mult for every &#36;5 you have.,UNCOMMON,tags-1
+images/Jokers/Canio.png,Canio,Gains &#215;1 Mult when a Face card is destroyed.,LEGENDARY,tags-3
+images/Jokers/Triboulet.png,Triboulet,Played Kings and Queens each give &#215;2 Mult when scored.,LEGENDARY,tags-3
+images/Jokers/Yorick.png,Yorick,&#215;5 Mult only after using 23 discards.,LEGENDARY,tags-3
+images/Jokers/Chicot.png,Chicot,Disables effect of every Boss Blind.,LEGENDARY,tags-3
+images/Jokers/Perkeo.png,Perkeo,Creates a Negative copy of 1 random consumable card in your possession at the end of the shop.,LEGENDARY,tags-3

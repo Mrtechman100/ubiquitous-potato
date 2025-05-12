@@ -1,0 +1,190 @@
+/* Card styles */
+/* Jokers Styling */
+:root {
+    /* Card styles */
+    --card-bg-color: #343434;
+    --card-border-radius: 20px;
+    --card-width: 270px;
+    --card-height: 364px;
+    --card-font-family: "VT323", monospace;
+    --card-font-size: x-large;
+    --card-padding: 40px 20px;
+    --tag-bg-color: #f2f2f2;
+    --tag1-bg-color: #26ce85;
+    --tag2-bg-color: #e90f0f;
+    --tag3-bg-color: #e9950f;
+    --tag-font-size: 17px;
+    --tag-padding: 8px 12px;
+    --tag-border-radius: 15px;
+    --tag-position: absolute;
+    --tag-bottom: 20px;
+    --tag-left: 20px;
+    --tag-font-family: "Nova Mono", monospace;
+    --tag-display: inline-block;
+    /* Consumable styles */
+    --consumable-width: 247px;
+    --consumable-height: 364px;
+    --flavorText-color: rgb(207, 207, 207);
+    --handType-color: whitesmoke;
+}
+
+.card-container {
+    transform-style: preserve-3d;
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    
+}
+  
+.card {
+    width: 270px;     /* same as .card-front/.card-back */
+    height: 364px;
+    position: relative;
+    transition: 0.4s;
+    transform-style: preserve-3d;
+}
+  
+  /* these now flip in place inside each .card */
+.card-front, .card-back {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    backface-visibility: hidden;
+    transition: 0.6s;
+}
+  
+.card-front {
+    border-radius: 20px;
+    z-index: 2;
+    transform: rotateY(0deg);
+}
+  
+.card-back {
+    background: #343434;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    transform: rotateY(-180deg);
+    border-radius: 20px;
+    font-family: "VT323", monospace;
+    font-size: x-large;
+}
+  
+.card:hover .card-back {
+    transform: rotateY(0deg);
+}
+.card:hover .card-front {
+    transform: rotateY(180deg);
+}
+
+/* General tag styles */
+.tags, .tags-1, .tags-2, .tags-3 {
+    display: var(--tag-display);
+    font-size: var(--tag-font-size);
+    padding: var(--tag-padding);
+    border-radius: var(--tag-border-radius);
+    position: var(--tag-position);
+    bottom: var(--tag-bottom);
+    left: var(--tag-left);
+    font-family: var(--tag-font-family);
+}
+
+/*Common Jokers*/
+.tags {
+    color: #000;
+    background: var(--tag-bg-color);
+}
+
+/*Uncommon Jokers*/
+.tags-1 {
+    color: #000;
+    background: var(--tag1-bg-color);
+}
+
+/*Rare Jokers*/
+.tags-2 {
+    color: white;
+    background: var(--tag2-bg-color);
+}
+
+/*Legendary Jokers*/
+.tags-3 {
+    color: white;
+    background: var(--tag3-bg-color);
+}
+
+/*Comsumables styling*/
+.section-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+    margin: 20px;
+    margin-bottom: 2.5rem;
+    background-color: rgb(242, 241, 241);
+    border-radius: 20px;
+}
+
+.cards {
+    width: 247px;
+    height: 364px;
+    position: relative;
+    transition: 0.4s;
+    transform-style: preserve-3d;
+}
+
+/* these now flip in place inside each .card */
+.cards .cards-front, .cards .cards-back {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    backface-visibility: hidden;
+    transition: 0.6s;
+}
+
+.cards .cards-front {
+    border-radius: 20px;
+    z-index: 2;
+    transform: rotateY(0deg);
+}
+
+.cards .cards-back {
+    background: #343434;
+    color: #fff;
+    padding: 40px 20px;
+    text-align: center;
+    transform: rotateY(-180deg);
+    border-radius: 20px;
+    font-family: "VT323", monospace;
+    font-size: x-large;
+}
+
+.cards:hover .cards-back {
+    transform: rotateY(0deg);
+}
+
+.cards:hover .cards-front {
+    transform: rotateY(180deg);
+}
+
+/*Consumable text styling*/
+/*Planet Suit*/
+.handType {
+    color: whitesmoke;
+    text-decoration: underline;
+}
+
+/*Flavor Text*/
+.flavorText {
+    color: rgb(207, 207, 207);
+    font-size: 17px;
+    font-family: "Nova Mono", monospace;
+}
